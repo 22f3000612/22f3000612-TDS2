@@ -1,0 +1,44 @@
+2024-12-15 00:39:16,186 - INFO - Processing file: media.csv
+2024-12-15 00:39:16,188 - INFO - Created directory: .\media
+2024-12-15 00:39:17,952 - INFO - Successfully loaded media.csv with encoding Windows-1252
+2024-12-15 00:39:18,132 - INFO - Generated summary statistics for media.csv
+2024-12-15 00:39:21,230 - INFO - Performed K-Means clustering with k=10 on media.csv
+2024-12-15 00:39:25,242 - INFO - Saved correlation_heatmap.png in .\media
+2024-12-15 00:39:25,846 - INFO - Saved overall_distribution.png in .\media
+2024-12-15 00:39:26,135 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-12-15 00:39:26,157 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-12-15 00:39:34,573 - INFO - Saved date_count.png in .\media
+2024-12-15 00:39:35,011 - INFO - Saved overall_boxplot.png in .\media
+2024-12-15 00:39:35,501 - INFO - Saved overall_vs_quality_clusters.png in .\media
+2024-12-15 00:39:55,113 - INFO - Saved overall_vs_quality_interactive.html in .\media
+2024-12-15 00:40:08,845 - INFO - Successfully generated dynamic narrative with LLM.
+2024-12-15 00:40:08,850 - INFO - Saved README.md in .\media
+2024-12-15 00:40:08,852 - INFO - Analysis completed. Results saved in directory: .\media
+2024-12-15 00:41:27,150 - INFO - Processing file: happiness.csv
+2024-12-15 00:41:27,217 - INFO - Created directory: .\happiness
+2024-12-15 00:41:32,362 - INFO - Successfully loaded happiness.csv with encoding ISO-8859-1
+2024-12-15 00:41:32,430 - INFO - Generated summary statistics for happiness.csv
+2024-12-15 00:41:34,857 - INFO - Performed K-Means clustering with k=2 on happiness.csv
+2024-12-15 00:41:36,319 - INFO - Saved correlation_heatmap.png in .\happiness
+2024-12-15 00:41:36,880 - INFO - Saved year_distribution.png in .\happiness
+2024-12-15 00:41:37,930 - INFO - Saved Country name_count.png in .\happiness
+2024-12-15 00:41:38,310 - INFO - Saved year_boxplot.png in .\happiness
+2024-12-15 00:41:39,041 - INFO - Saved year_vs_Life Ladder_clusters.png in .\happiness
+2024-12-15 00:41:41,082 - INFO - Saved year_vs_Life Ladder_interactive.html in .\happiness
+2024-12-15 00:41:58,657 - INFO - Successfully generated dynamic narrative with LLM.
+2024-12-15 00:41:58,661 - INFO - Saved README.md in .\happiness
+2024-12-15 00:41:58,662 - INFO - Analysis completed. Results saved in directory: .\happiness
+2024-12-15 00:43:05,787 - INFO - Processing file: goodreads.csv
+2024-12-15 00:43:05,792 - INFO - Created directory: .\goodreads
+2024-12-15 00:43:11,957 - INFO - Successfully loaded goodreads.csv with encoding utf-8
+2024-12-15 00:43:12,624 - INFO - Generated summary statistics for goodreads.csv
+2024-12-15 00:44:19,181 - INFO - Performed K-Means clustering with k=6 on goodreads.csv
+2024-12-15 00:44:21,830 - INFO - Saved correlation_heatmap.png in .\goodreads
+2024-12-15 00:44:22,582 - INFO - Saved book_id_distribution.png in .\goodreads
+2024-12-15 00:44:55,750 - INFO - Saved isbn_count.png in .\goodreads
+2024-12-15 00:44:56,216 - INFO - Saved book_id_boxplot.png in .\goodreads
+2024-12-15 00:44:57,314 - INFO - Saved book_id_vs_goodreads_book_id_clusters.png in .\goodreads
+2024-12-15 00:45:00,670 - INFO - Saved book_id_vs_goodreads_book_id_interactive.html in .\goodreads
+2024-12-15 00:45:17,573 - INFO - Successfully generated dynamic narrative with LLM.
+2024-12-15 00:45:17,578 - INFO - Saved README.md in .\goodreads
+2024-12-15 00:45:17,584 - INFO - Analysis completed. Results saved in directory: .\goodreads
