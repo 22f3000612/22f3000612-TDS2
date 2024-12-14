@@ -7,7 +7,8 @@
 #   "requests",
 #   "scikit-learn",
 #   "chardet",
-#   "plotly"
+#   "plotly", 
+#   "python-dotenv"
 # ]
 # ///
 
@@ -25,6 +26,9 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import silhouette_score
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # Configure logging
 logging.basicConfig(
